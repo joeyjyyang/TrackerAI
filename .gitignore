@@ -1,3 +1,4 @@
+*.pyc
 */key.py
 .DS_Store
 /.idea
